@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [8.7.x] - 2024-12-??
 
+- Added: When exporting a game fails, for certain cases Randovania will now verify your input files for bad files. This is supported by Metroid Prime and Metroid Prime 2: Echoes.
 - Changed: Add confirmation dialog when deleting a world in Multiworld.
 
 ### Metroid Dread
